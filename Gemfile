@@ -4,6 +4,6 @@ source "https://rubygems.org"
 gem "jekyll"
 gem 'github-pages'
 
-# Windows does not include zoneinfo files, so bundle the tzinfo-data gem
+# Windows does not include zoneinfo files, so bundle the tzinfo-data gem1
 # gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
