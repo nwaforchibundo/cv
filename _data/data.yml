@@ -204,14 +204,12 @@ oss:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      I delight joy in publishing my work in excellently renowned and high impact factor publishing body. Presently, I have three published scientific research journals, which are all done during PhD. 
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Design and Fabrication of Concentric Tube Robots: A Survey
+        link: <a href="https://www.femto-st.fr/fr/Departements-de-recherche/AS2M/Presentation" target="_blank" rel="noopener noreferrer">(FEMTO-ST)</a>
+        authors: Nwafor, Chibundo and Girerd, Cédric and Laurent, Guillaume and Morimoto, Tania and Rabenorosoa, Kanty
+        Journal: IEEE Transactions on Robotics, 2023
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
