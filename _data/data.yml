@@ -210,15 +210,15 @@ publications:
         link: "https://ieeexplore.ieee.org/document/10086700"
         authors: Nwafor, Chibundo and Girerd, Cédric and Laurent, Guillaume and Morimoto, Tania and Rabenorosoa, Kanty
         conference: "IEEE Transactions on Robotics, 2023"
-        pdf: Nwafor_cv.pdf
+        pdf: survey.pdf
         bib: cita.bib
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-        pdf: "#"
-        bib: "#"
+      - title: "The Caturo: A Sub-millimetre Diameter Glass Concentric Tube Robot with High Curvature"
+        link: "https://onlinelibrary.wiley.com/doi/10.1002/aisy.202200308"
+        authors: Nwafor, Chibundo J. and Laurent, Guillaume J. and Rougeot, Patrick and Rabenorosoa, Kanty
+        conference: "Advanced Intelligent Systems, 2023"
+        pdf: caturo.pdf
+        bib: cita.bib
 
       - title: A syntax directed compiler for Algol 60
         link: "#"
