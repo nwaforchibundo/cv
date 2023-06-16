@@ -72,19 +72,6 @@ education:
         time: 2019 - 2023
         details: |
           Continuum robots are gaining increasing interest in medical applications, due to their slender shape and compliant nature which makes them safer for human-to-robot interaction. 
-          In addition, they are able to follow a 3D complex path, thanks to their infinite degrees of freedom. 
-          The goal of this thesis is to take advantage of glass flexibility at the microscale to actualize novel and more miniature continuum robots when compared to those in the literature. 
-          The first contribution is a conceptual study, addressing the design and fabrication of different CTR prototypes and deriving a general 
-          classification approach while proposing to the research community a concise methodology for the evaluation of CTR in the future. 
-          Secondly, we proposed a new generation of a miniaturized sub-millimeter CTR that is made of glass, which has a tube with an external diameter down to 90µm and a 5mm radius of curvature. 
-          Furthermore, we presented a novel, easy, and rapid patient-specific/customizable approach to obtaining a pre-curved tube using glass, which was characterized, followed 
-          by the robot model validation (forward kinematic, inverse kinematics, and stability analysis). Various demonstrations of proofs-of-concept for the different application capabilities 
-          e.g. vitreoretinal deployment in a fish eye, constraint deployment through 3-stationed needles (~1mm orifice), pre-curved helical and fiber optics CTR deployment with laser transmission 
-          capability, and then, fluid suction and delivery. The third contribution was the investigation and demonstration of a miniaturized 3-DoF PCR using glass optical fiber. 
-          The robot design has a dimension of 2.5 x 2.5 x 6mm and can reach +90 to -80 degrees in the tip and tilt angle. The robot's performance such as the workspace, manipulability, and 
-          stiffness was evaluated as a function of variations of different geometrical parameters of the robot. For the model validation, different path movements were presented such as vertical plane 
-          circumradius and workspace followed by the circular and square shapes in the horizontal plane, which shows the great prospect of the robot for increasing dexterity in confined space. 
-          Finally, for both cases, the robot design analysis was very important for investigating the robot stability, for CTR due to torsion, and for PCR, due to the actuation length.
           
       - degree: MSc in Control for Green Mechatronics (GREEM)
         university: Université Bourgogne Franche-Comté, France <a href="https://www.ubfc.fr/en/formations/masters/master-greem/" target="_blank" rel="noopener noreferrer">(UBFC)</a>
