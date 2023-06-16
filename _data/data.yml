@@ -211,18 +211,21 @@ publications:
         authors: Nwafor, Chibundo and Girerd, Cédric and Laurent, Guillaume and Morimoto, Tania and Rabenorosoa, Kanty
         conference: "IEEE Transactions on Robotics, 2023"
         pdf: Nwafor_cv.pdf
+        bib: cita.bib
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
         pdf: "#"
+        bib: "#"
 
       - title: A syntax directed compiler for Algol 60
         link: "#"
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
         pdf: "#"
+        bib: "#"
 
 skills:
     title: Skills &amp; Proficiency
