@@ -66,9 +66,9 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: PhD in Engineering Sciences and Microtechnology
+        university: Université Bourgogne Franche-Comté, France <a href="https://spim.ubfc.fr/en/" target="_blank" rel="noopener noreferrer">(UBFC)</a>
+        time: 2019 - 2023
         details: |
           Continuum robots are gaining increasing interest in medical applications, due to their slender shape and compliant nature which makes them safer for human-to-robot interaction. 
           In addition, they are able to follow a 3D complex path, thanks to their infinite degrees of freedom. 
