@@ -225,7 +225,7 @@ publications:
         authors: Nwafor, Chibundo and Laurent, Guillaume J. and Rabenorosoa, Kanty
         conference: "IEEE/ASME Transactions on Mechatronics, 2023"
         pdf: pcr.pdf
-        bib: pdf.bib
+        bib: pcr.bib
 
 skills:
     title: Skills &amp; Proficiency
