@@ -27,7 +27,9 @@
     <div class="publication-conference">{{ publication.conference }}</div>
     <div class="publication-journal">{{ publication.journal }}</div>
     {% if publication.pdf %}
+    <li class="pdf"><i class="fas fa-file-pdf"></i>
       <li><a href="{{ publication.pdf }}" target="_blank">{{ PDF }}</a></li>
+    </li>
     {% else %}
       <li>{{ publication.title }}</li>
     {% endif %}
@@ -37,4 +39,8 @@
 </section><!--//section-->
 {% endif %}
 
- 
+     {% if sidebar.pdf %}
+    <li class="pdf"><i class="fas fa-file-pdf"></i>
+      <a href="{{ sidebar.pdf }}" target="_blank">Resume PDF</a>
+    </li>
+    {% endif %}
