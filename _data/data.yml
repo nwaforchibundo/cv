@@ -67,7 +67,7 @@ education:
     title: Education
     info:
       - degree: PhD in Engineering Sciences and Microtechnology
-        university: Université Bourgogne Franche-Comté, France [(UBFC)](https://spim.ubfc.fr/en/){:target="_blank"}
+        university: Université Bourgogne Franche-Comté, France (UBFC) <a href="https://spim.ubfc.fr/en/" target="_blank" rel="noopener noreferrer">UBFC</a>
         time: 2011 - 2012
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
