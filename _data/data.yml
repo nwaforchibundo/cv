@@ -33,24 +33,27 @@ sidebar:
       title: Languages
       info:
         - idiom: English
-          level: Native
+          level: Proficient
 
         - idiom: French
-          level: Professional
+          level: Basic
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: Igbo
+          level: Native
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Research/Studying
           link:
 
-        - item: Snowboarding
+        - item: Programming
           link:
 
-        - item: Cooking
+        - item: Sport
+          link:
+          
+        - item: Content creation
           link:
 
 career-profile:
