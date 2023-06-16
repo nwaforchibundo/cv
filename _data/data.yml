@@ -211,21 +211,21 @@ publications:
         authors: Nwafor, Chibundo and Girerd, Cédric and Laurent, Guillaume and Morimoto, Tania and Rabenorosoa, Kanty
         conference: "IEEE Transactions on Robotics, 2023"
         pdf: survey.pdf
-        bib: cita.bib
+        bib: survey.bib
 
       - title: "The Caturo: A Sub-millimetre Diameter Glass Concentric Tube Robot with High Curvature"
         link: "https://onlinelibrary.wiley.com/doi/10.1002/aisy.202200308"
         authors: Nwafor, Chibundo J. and Laurent, Guillaume J. and Rougeot, Patrick and Rabenorosoa, Kanty
         conference: "Advanced Intelligent Systems, 2023"
         pdf: caturo.pdf
-        bib: cita.bib
+        bib: caturo.bib
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-        pdf: "#"
-        bib: "#"
+      - title: Miniature Parallel Continuum Robot Made of Glass: Analysis, Design, and Proof-of-Concept
+        link: "https://ieeexplore.ieee.org/abstract/document/10144101"
+        authors: Nwafor, Chibundo and Laurent, Guillaume J. and Rabenorosoa, Kanty
+        conference: "IEEE/ASME Transactions on Mechatronics, 2023"
+        pdf: pcr.pdf
+        bib: pdf.bib
 
 skills:
     title: Skills &amp; Proficiency
