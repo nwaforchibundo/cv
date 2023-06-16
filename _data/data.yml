@@ -67,8 +67,8 @@ education:
     title: Education
     info:
       - degree: PhD in Engineering Sciences and Microtechnology
-        university: Université Bourgogne Franche-Comté, France <a href="https://spim.ubfc.fr/en/" target="_blank" rel="noopener noreferrer">(UBFC)</a>
-        laboratory: Franche-Comté Electronique Mécanique Thermique et Optique – Sciences et Technologies <a href="https://www.femto-st.fr/fr/Departements-de-recherche/AS2M/Presentation" target="_blank" rel="noopener noreferrer">(FEMTO-ST)</a>
+        university: Université Bourgogne Franche-Comté, France <a href="https://spim.ubfc.fr/en/" target="_blank" rel="noopener noreferrer">(UBFC-SPIM)</a>
+        laboratory: AS2M Department FEMTO-ST Institute <a href="https://www.femto-st.fr/fr/Departements-de-recherche/AS2M/Presentation" target="_blank" rel="noopener noreferrer">(FEMTO-ST)</a>
         time: 2019 - 2023
         details: |
           Continuum robots are gaining increasing interest in medical applications, due to their slender shape and compliant nature which makes them safer for human-to-robot interaction. 
@@ -87,7 +87,7 @@ education:
           Finally, for both cases, the robot design analysis was very important for investigating the robot stability, for CTR due to torsion, and for PCR, due to the actuation length.
           
       - degree: MSc in Control for Green Mechatronics (GREEM)
-        university: Université Bourgogne Franche-Comté, France <a href="https://www.ubfc.fr/en/formations/masters/master-greem/" target="_blank" rel="noopener noreferrer">(UBFC)</a>
+        university: Université Bourgogne Franche-Comté, France <a href="https://www.ubfc.fr/en/formations/masters/master-greem/" target="_blank" rel="noopener noreferrer">(UBFC-GREEM)</a>
         time: 2017 - 2019
         details: |
           The international master on Control for Green Mechatronics (GREEM), within the Robotics and Control mention of the French Ministry of Education, promotes a high-quality educational offer in 
@@ -95,7 +95,7 @@ education:
           The consideration of the energy efficiency makes the GREEM international master very singular and very innovative and makes it answer a real actual societal matter which is the effect of technological devices to the ecology. 
             
       - degree: BSc in Electrical/Electronic Engineering
-        university: Anambra State University, Uli, Nigeria <a href="https://coou.edu.ng/" target="_blank" rel="noopener noreferrer">(ANSU)</a>
+        university: Anambra State University, Uli, Nigeria <a href="https://coou.edu.ng/" target="_blank" rel="noopener noreferrer">(ANSU-COOU)</a>
         time: 2008 - 2012
         details: |
           The personal educational first degree in Electrical/Electronic Engineering with a specialization in Electronics provides a comprehensive foundation in electrical and 
