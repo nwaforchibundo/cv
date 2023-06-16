@@ -220,7 +220,7 @@ publications:
         pdf: caturo.pdf
         bib: caturo.bib
 
-      - title: Miniature Parallel Continuum Robot Made of Glass: Analysis, Design, and Proof-of-Concept
+      - title: "Miniature Parallel Continuum Robot Made of Glass: Analysis, Design, and Proof-of-Concept"
         link: "https://ieeexplore.ieee.org/abstract/document/10144101"
         authors: Nwafor, Chibundo and Laurent, Guillaume J. and Rabenorosoa, Kanty
         conference: "IEEE/ASME Transactions on Mechatronics, 2023"
