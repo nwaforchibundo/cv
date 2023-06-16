@@ -68,6 +68,7 @@ education:
     info:
       - degree: PhD in Engineering Sciences and Microtechnology
         university: Université Bourgogne Franche-Comté, France <a href="https://spim.ubfc.fr/en/" target="_blank" rel="noopener noreferrer">(UBFC)</a>
+        #laboratory: Franche-Comté Electronique Mécanique Thermique et Optique – Sciences et Technologies <a href="https://www.femto-st.fr/fr/Departements-de-recherche/AS2M/Presentation" target="_blank" rel="noopener noreferrer">(FEMTO-ST)</a>
         time: 2019 - 2023
         details: |
           Continuum robots are gaining increasing interest in medical applications, due to their slender shape and compliant nature which makes them safer for human-to-robot interaction. 
@@ -85,17 +86,13 @@ education:
           circumradius and workspace followed by the circular and square shapes in the horizontal plane, which shows the great prospect of the robot for increasing dexterity in confined space. 
           Finally, for both cases, the robot design analysis was very important for investigating the robot stability, for CTR due to torsion, and for PCR, due to the actuation length.
           
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: MSc in Control for Green Mechatronics (GREEM)
+        university: Université Bourgogne Franche-Comté, France <a href="https://www.ubfc.fr/en/formations/masters/master-greem/" target="_blank" rel="noopener noreferrer">(UBFC)</a>
+        time: 2017 - 2019
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point 
+          The international master on Control for Green Mechatronics (GREEM), within the Robotics and Control mention of the French Ministry of Education, promotes a high-quality educational offer in 
+          the area of design and control of mechatronic systems with a particular focus on two points: their functional performances and their energetic efficiency. 
+          The consideration of the energy efficiency makes the GREEM international master very singular and very innovative and makes it answer a real actual societal matter which is the effect of technological devices to the ecology. 
             
       - degree: BSc in Applied Mathematics
         university: Bristol University
