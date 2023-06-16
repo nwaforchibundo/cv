@@ -216,11 +216,13 @@ publications:
         link: "#"
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        pdf: "#"
 
       - title: A syntax directed compiler for Algol 60
         link: "#"
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
+        pdf: "#"
 
 skills:
     title: Skills &amp; Proficiency
