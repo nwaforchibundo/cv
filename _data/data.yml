@@ -144,15 +144,30 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
-      - role: Intenship
+      - role: Intenships
         time: 2011 and 2019
-        company: Electronic Development and Research Institute, Awka, Nigeria <a href="https://eldi.org.ng/" target="_blank" rel="noopener noreferrer">(ELDI)</a> and Institut des Sciences du Mouvement, Aix-Marseille, France <a href="https://ism.univ-amu.fr/" target="_blank" rel="noopener noreferrer">(ELDI)</a>
+        company: Electronic Development and Research Institute, Awka, Nigeria <a href="https://eldi.org.ng/" target="_blank" rel="noopener noreferrer">(ELDI)</a> and Institut des Sciences du Mouvement, Aix-Marseille, France <a href="https://ism.univ-amu.fr/" target="_blank" rel="noopener noreferrer">(ISM)</a>
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
           Cum sociis natoque penatibus et magnis dis parturient montes,
           nascetur ridiculus mus. Donec quam felis, ultricies nec,
           pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
+    - role: Civil Service 
+        time: 2013 - 2014
+        company: National Youth Service Corps, Sokoto, Nigeria <a href="https://www.nysc.gov.ng/" target="_blank" rel="noopener noreferrer">(NYSC)</a>
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+          error sit voluptatem accusantium doloremque laudantium, totam rem
+          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+          architecto beatae vitae dicta sunt explicabo.
             - Bullet point
             - Bullet point
 projects:
