@@ -205,7 +205,7 @@ experiences:
 publications:
     title: Publications
     intro: |
-      I delight joy in publishing my work in excellently renowned and high impact factor publishing body. Presently, I have three published scientific research journals, which are all done during PhD. 
+      I delight joy in publishing my work in an excellent, renowned and high impact factor jounal publication body. Presently, I have three outstanding published scientific research papers, which are all achieved during PhD. 
     papers:
       - title: "Design and Fabrication of Concentric Tube Robots: A Survey"
         link: "https://ieeexplore.ieee.org/document/10086700"
@@ -232,23 +232,35 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: C/C++
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Python 
+        level: 75%
 
-      - name: Angular
-        level: 9%
+      - name: Java
+        level: 70%
 
-      - name: HTML5 & CSS
+      - name: MATLAB
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Solidworks
         level: 85%
+        
+      - name: Microsoft office
+        level: 98%
+        
+      - name: Comsol Multiphysics
+        level: 70%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Proteus simulation
+        level: 97%
 
+      - name: Spyder & Qt-Creator
+        level: 90%
+
+      - name: Alphacam
+        level: 85%
+        
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Nwa Nwa</a>
