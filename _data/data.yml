@@ -130,7 +130,7 @@ experiences:
         time: 2019 - Present
         company: UBFC, France <a href="https://www.ubfc.fr/en/formations/masters/master-greem/" target="_blank" rel="noopener noreferrer">(UBFC)</a> and SUPMICROTECH-ENSMM, France <a href="https://https://www.supmicrotech.fr/" target="_blank" rel="noopener noreferrer">(ENSMM)</a>
         details: |
-          During my PhD, I had the opportunity to teach and mentor engineering students, master students and many interns. It was a rewarding experience that allowed me to share my knowledge and expertise with the next generation of researchers.
+          During my PhD, I had the opportunity to teach and mentor engineering students, master students and many interns. It was a rewarding experience that allowed me to share my knowledge and expertise with the next generation of researchers/engineers.
           Some of the courses I gave and assisted include:
             - Methodological Tools (CM and TP for master students)
             - Microrobotics (TP for master students)
@@ -139,13 +139,11 @@ experiences:
         time: 2011 and 2019
         company: Electronic Development and Research Institute, Awka, Nigeria <a href="https://eldi.org.ng/" target="_blank" rel="noopener noreferrer">(ELDI)</a> and Institut des Sciences du Mouvement, Aix-Marseille, France <a href="https://ism.univ-amu.fr/" target="_blank" rel="noopener noreferrer">(ISM)</a>
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          During my internship at ELDI, I had the opportunity to work on embedded circuit printing and microcontroller programming. 
+          This experience allowed me to gain practical skills in designing and fabricating electronic circuits on printed circuit boards, as well as programming microcontrollers to control various devices and systems.
+          For the internship at ISM, I focused on sensor validation for an indoor localization application using ROS. I gained hands-on experience integrating and validating various sensors within the ROS framework, enhancing my skills in sensor validation, data analysis, and robotics.
+            - Logic gates emulator/trainer board at <a href="https://eldi.org.ng/" target="_blank" rel="noopener noreferrer">(ELDI)</a> 
+            - Validation of new sensor for indoor localization system at <a href="https://ism.univ-amu.fr/" target="_blank" rel="noopener noreferrer">(ISM)</a>, a project sponsored by <a href="https://www.sattse.com/" target="_blank" rel="noopener noreferrer">(SATT)</a>
       - role: Site Engineer  
         time: 2014 - 2015
         company: VACC TECHNICAL L.T.D <a href="https://www.vacctechnical.com/" target="_blank" rel="noopener noreferrer">(VACC)</a> and ASCA RINGARDAS Nigeria L.T.D, Nigeria <a href="https://ascanigeria.com/" target="_blank" rel="noopener noreferrer">(ASCA)</a>
