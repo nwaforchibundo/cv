@@ -135,7 +135,7 @@ experiences:
             - Bullet point
       - role: Teaching
         time: 2019 - Present
-        company: UBFC, France <a href="https://www.ubfc.fr/en/formations/masters/master-greem/" target="_blank" rel="noopener noreferrer">(UBFC)</a> and SUPMICROTECH-ENSMM, France <a href="https://https://www.supmicrotech.fr/" target="_blank" rel="noopener noreferrer">(UBFC)</a>
+        company: UBFC, France <a href="https://www.ubfc.fr/en/formations/masters/master-greem/" target="_blank" rel="noopener noreferrer">(UBFC)</a> and SUPMICROTECH-ENSMM, France <a href="https://https://www.supmicrotech.fr/" target="_blank" rel="noopener noreferrer">(ENSMM)</a>
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -153,6 +153,21 @@ experiences:
           Cum sociis natoque penatibus et magnis dis parturient montes,
           nascetur ridiculus mus. Donec quam felis, ultricies nec,
           pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - role: Site Engineer  
+        time: 2014 - 2015
+        company: VACC TECHNICAL L.T.D, Nigeria <a href="https://www.vacctechnical.com/" target="_blank" rel="noopener noreferrer">(VACC)</a> and ASCA RINGARDAS Nigeria L.T.D, Nigeria <a href="https://ascanigeria.com/" target="_blank" rel="noopener noreferrer">(ASCA)</a>
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+          error sit voluptatem accusantium doloremque laudantium, totam rem
+          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+          architecto beatae vitae dicta sunt explicabo.
             - Bullet point
             - Bullet point
       - role: Civil Service  
