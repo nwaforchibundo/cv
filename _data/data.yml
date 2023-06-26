@@ -139,11 +139,10 @@ experiences:
         time: 2011 and 2019
         company: Electronic Development and Research Institute, Awka, Nigeria <a href="https://eldi.org.ng/" target="_blank" rel="noopener noreferrer">(ELDI)</a> and Institut des Sciences du Mouvement, Aix-Marseille, France <a href="https://ism.univ-amu.fr/" target="_blank" rel="noopener noreferrer">(ISM)</a>
         details: |
-          During my internship at ELDI, I had the opportunity to work on embedded circuit printing and microcontroller programming. 
-          This experience allowed me to gain practical skills in designing and fabricating electronic circuits on printed circuit boards, as well as programming microcontrollers to control various devices and systems.
-          For the internship at ISM, I focused on sensor validation for an indoor localization application using ROS. I gained hands-on experience integrating and validating various sensors within the ROS framework, enhancing my skills in sensor validation, data analysis, and robotics.
-            - Logic gates emulator/trainer board at <a href="https://eldi.org.ng/" target="_blank" rel="noopener noreferrer">(ELDI)</a> 
-            - Validation of new sensor for indoor localization system at <a href="https://ism.univ-amu.fr/" target="_blank" rel="noopener noreferrer">(ISM)</a>, a project sponsored by <a href="https://www.sattse.com/" target="_blank" rel="noopener noreferrer">(SATT)</a>
+          At ELDI, I had the opportunity to gain practical skills on designing of embedded circuits and microcontroller programming. 
+          In ISM, I gained hands-on experience integrating and validating various sensors within the ROS framework, enhancing my skills in sensor validation, data analysis, and robotics. The two projects achievements includes:
+            - Logic gates emulator/trainer board at <a href="https://eldi.org.ng/" target="_blank" rel="noopener noreferrer">ELDI</a>. 
+            - Validation of new sensor for indoor localization system at <a href="https://ism.univ-amu.fr/" target="_blank" rel="noopener noreferrer">ISM</a> sponsored by <a href="https://www.sattse.com/" target="_blank" rel="noopener noreferrer">SATT</a>.
       - role: Site Engineer  
         time: 2014 - 2015
         company: VACC TECHNICAL L.T.D <a href="https://www.vacctechnical.com/" target="_blank" rel="noopener noreferrer">(VACC)</a> and ASCA RINGARDAS Nigeria L.T.D, Nigeria <a href="https://ascanigeria.com/" target="_blank" rel="noopener noreferrer">(ASCA)</a>
