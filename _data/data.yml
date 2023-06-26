@@ -237,7 +237,10 @@ skills:
 
       - name: Python 
         level: 75%
-
+        
+      - name: Assembly
+        level: 73%
+        
       - name: Java
         level: 70%
 
