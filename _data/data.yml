@@ -118,9 +118,9 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Reseacher/PhD 
+        time: 2019 - Present
+        company: FEMTO-ST Institute <a href="https://www.femto-st.fr/fr/Departements-de-recherche/AS2M/Presentation" target="_blank" rel="noopener noreferrer">(FEMTO-ST)</a>
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -133,9 +133,9 @@ experiences:
           architecto beatae vitae dicta sunt explicabo.
             - Bullet point
             - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Teaching
+        time: 2019 - Present
+        company: UBFC, France <a href="https://www.ubfc.fr/en/formations/masters/master-greem/" target="_blank" rel="noopener noreferrer">(UBFC)</a> and SUPMICROTECH-ENSMM, France <a href="https://https://www.supmicrotech.fr/" target="_blank" rel="noopener noreferrer">(UBFC)</a>
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
