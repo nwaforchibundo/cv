@@ -44,7 +44,9 @@
 
       {% if graduation.details %}
       <div class="details">
-        {{ graduation.details | markdownify }}
+        <div align="justify">
+          {{ graduation.details | markdownify }}
+        </div>
       </div><!--//details-->
       {% endif %}
 
