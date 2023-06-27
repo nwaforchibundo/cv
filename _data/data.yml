@@ -55,7 +55,10 @@ sidebar:
           
         - item: Content creation
           link:
+          
+    awards: True # set to False if you want education in main section instead of in sidebar
 
+    
 career-profile:
     title: Career Profile
     summary: |
@@ -68,6 +71,55 @@ career-profile:
       
 education:
     title: Education
+    info:
+      - degree: PhD in Engineering Sciences and Microtechnology
+        university: Université Bourgogne Franche-Comté, France <a href="https://spim.ubfc.fr/en/" target="_blank" rel="noopener noreferrer">(UBFC-SPIM)</a>
+        laboratory: AS2M Department FEMTO-ST Institute <a href="https://www.femto-st.fr/fr/Departements-de-recherche/AS2M/Presentation" target="_blank" rel="noopener noreferrer">(FEMTO-ST)</a>
+        time: 2019 - 2023
+        details: |
+          Continuum robots are gaining increasing interest in medical applications, due to their slender shape and compliant nature which makes them safer for human-to-robot interaction. 
+          In addition, they are able to follow a 3D complex path, thanks to their infinite degrees of freedom. 
+          The goal of this thesis is to take advantage of glass flexibility at the microscale to actualize novel and more miniature continuum robots when compared to those in the literature. 
+          The first contribution is a conceptual study, addressing the design and fabrication of different CTR prototypes and deriving a general  
+          classification approach while proposing to the research community a concise methodology for the evaluation of CTR in the future.  
+          Secondly, we proposed a new generation of a miniaturized sub-millimeter CTR that is made of glass, which has a tube with an external diameter down to 90µm and a 5mm radius of curvature. 
+          Furthermore, we presented a novel, easy, and rapid patient-specific/customizable approach to obtaining a pre-curved tube using glass, which was characterized, followed  
+          by the robot model validation (forward kinematic, inverse kinematics, and stability analysis). Various demonstrations of proofs-of-concept for the different application capabilities 
+          e.g. vitreoretinal deployment in a fish eye, constraint deployment through 3-stationed needles (~1mm orifice), pre-curved helical and fiber optics CTR deployment with laser transmission  
+          capability, and then, fluid suction and delivery. The third contribution was the investigation and demonstration of a miniaturized 3-DoF PCR using glass optical fiber. 
+          The robot design has a dimension of 2.5 x 2.5 x 6mm and can reach +90 to -80 degrees in the tip and tilt angle. The robot's performance such as the workspace, manipulability, and 
+          stiffness was evaluated as a function of variations of different geometrical parameters of the robot. For the model validation, different path movements were presented such as vertical plane
+          circumradius and workspace followed by the circular and square shapes in the horizontal plane, which shows the great prospect of the robot for increasing dexterity in confined space. 
+          Finally, for both cases, the robot design analysis was very important for investigating the robot stability, for CTR due to torsion, and for PCR, due to the actuation length.
+          
+      - degree: MSc in Control for Green Mechatronics (GREEM)
+        university: Université Bourgogne Franche-Comté, France <a href="https://www.ubfc.fr/en/formations/masters/master-greem/" target="_blank" rel="noopener noreferrer">(UBFC-GREEM)</a>
+        time: 2017 - 2019
+        details: |
+          The international master on Control for Green Mechatronics (GREEM), within the Robotics and Control mention of the French Ministry of Education, promotes a high-quality educational offer in 
+          the area of design and control of mechatronic systems with a particular focus on two points: their functional performances and their energetic efficiency. 
+          The consideration of the energy efficiency makes the GREEM international master very singular and very innovative and makes it answer a real actual societal matter which is the effect of technological devices to the ecology. 
+
+      - degree: MPhil in Digital Electronics
+        university: University of Nigeria Nsukka, Nigeria <a href="https://www.unn.edu.ng/" target="_blank" rel="noopener noreferrer">(UNN)</a>
+        time: 2016 - deferred
+        details: |
+          Finished course work and about proceeding to the full research before I secured the life changing opportunity to study Mechatonics/Robotics in France.  
+          
+      - degree: BEng in Electrical/Electronic Engineering
+        university: Anambra State University, Uli, Nigeria <a href="https://coou.edu.ng/" target="_blank" rel="noopener noreferrer">(ANSU-COOU)</a>
+        time: 2008 - 2012
+        details: |
+          The personal educational first degree in Electrical/Electronic Engineering with a specialization in Electronics provides a comprehensive foundation in electrical and 
+          electronic systems, focusing specifically on electronic circuits, devices, and their applications. 
+          This degree equips individuals with the necessary knowledge and skills to design, analyze, and troubleshoot electronic systems used in various industries. 
+          The degree program also offers elective courses that allow students to tailor their education to their specific interests and career goals. 
+          Elective options may include power electronics, control systems, signal processing, robotics and automation, photonics and optoelectronics, and wireless sensor networks. 
+          Throughout the program, students delve into core courses such as electrical circuits and systems, electronic devices and circuits, 
+          digital electronics, and microelectronics. These courses cover the fundamental principles and techniques required to understand and work with electronic components, circuits, and systems.
+
+awards:
+    title: Awards
     info:
       - degree: PhD in Engineering Sciences and Microtechnology
         university: Université Bourgogne Franche-Comté, France <a href="https://spim.ubfc.fr/en/" target="_blank" rel="noopener noreferrer">(UBFC-SPIM)</a>
