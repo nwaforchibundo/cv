@@ -12,7 +12,9 @@
 
   {% if publications.intro %}
   <div class="intro">
-    {{ publications.intro | markdownify }}
+    <div align="justify">
+      {{ publications.intro | markdownify }}
+    </div>
   </div><!--//intro-->
   {% endif %}
 
